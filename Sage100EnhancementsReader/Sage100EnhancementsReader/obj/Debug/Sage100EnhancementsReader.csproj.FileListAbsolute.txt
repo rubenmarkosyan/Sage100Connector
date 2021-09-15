@@ -1,0 +1,10 @@
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\bin\Debug\Sage100EnhancementsReader.exe.config
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\bin\Debug\Sage100EnhancementsReader.exe
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\bin\Debug\Sage100EnhancementsReader.pdb
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\obj\Debug\Sage100EnhancementsReader.csprojAssemblyReference.cache
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\obj\Debug\Sage100EnhancementsReader.Form1.resources
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\obj\Debug\Sage100EnhancementsReader.Properties.Resources.resources
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\obj\Debug\Sage100EnhancementsReader.csproj.GenerateResource.cache
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\obj\Debug\Sage100EnhancementsReader.csproj.CoreCompileInputs.cache
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\obj\Debug\Sage100EnhancementsReader.exe
+C:\Users\Miner\source\repos\Sage100EnhancementsReader\Sage100EnhancementsReader\obj\Debug\Sage100EnhancementsReader.pdb
